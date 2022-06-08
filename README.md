@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="[https://trungquandev.com](https://vietnamnews72h.blogspot.com/)" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="longnhat-blog" />
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="" />
   </a>
   <a href="https://www.facebook.com/NguyenLongNhat.in4/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="longnhat-facebook" />
@@ -92,6 +92,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="" />
 </a>
 
